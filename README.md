@@ -1,6 +1,6 @@
 # Subhankar's Movies
 
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.7-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
