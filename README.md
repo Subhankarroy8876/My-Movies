@@ -12,6 +12,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://my-movies0.herokuapp.com/
 
+The project is inspired from Kishan Lal and also he has designed the User Interface.
+
 Hope you like this project.
 
 
